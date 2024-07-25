@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIA0010)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIA0010&show_icons=true&theme=radical)
 
 <!--
 **JIA0010/JIA0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
