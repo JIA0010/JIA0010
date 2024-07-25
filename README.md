@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIA0010)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={JIA0010}&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username={JIA0010}&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIA0010&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username={JIA0010}&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **JIA0010/JIA0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
