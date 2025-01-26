@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🐼About hanetsuki
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,vscode)](https://skillicons.dev)
 
