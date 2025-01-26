@@ -1,4 +1,4 @@
-## 🐼About hanetsuki
+## 🐼About CJIA
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,vscode)](https://skillicons.dev)
 
