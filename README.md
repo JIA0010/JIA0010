@@ -1,6 +1,6 @@
 ## 🐼About CJIA
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,vscode,cmake,mysql,nodejs)](https://skillicons.dev)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIA0010&layout=compact&count_private=true&show_icons=true&theme=onedark" />
